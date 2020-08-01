@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+net.lz1998.cq.boot.CQAutoConfiguration
+
+org.springframework.context.ApplicationListener=\
+net.lz1998.cq.boot.CQBannerApplicationListener
