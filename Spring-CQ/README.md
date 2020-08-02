@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring-CQ
 [![Build Status](https://travis-ci.org/lz1998/spring-cq.png)](https://travis-ci.org/lz1998/spring-cq)
 [![QQ群](https://img.shields.io/static/v1?label=QQ%E7%BE%A4&message=335783090&color=blue)](https://jq.qq.com/?_wv=1027&k=5BKAROL)
@@ -194,3 +195,6 @@
     richardchien/cqhttp
     ```
 2. 访问 http://127.0.0.1:9000 登录QQ账号
+=======
+第一次建立仓库并试验上传代码。
+>>>>>>> a8bebd6b36689a52d6cd56145a1bd258610e9496
